@@ -1,0 +1,1 @@
+Graphical interface that enables CRUD operations for an SQL database which stores technical specifications of various vehicles. This application can be used by a car dealership to manage its vehicles by technical characteristics. The database is designed in Microsoft SQL Server Management Studio and the main application is developed in Java using NetBeans IDE.
